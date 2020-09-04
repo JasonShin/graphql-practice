@@ -37,7 +37,7 @@
     "webpack-dev-server": "^1.8.2"
   },
   "dependencies": {
-    "react": "^0.13.0",
+    "react": "^0.14.9",
     "graphiql": "0.3.x",
     "graphql": "0.4.x",
     "isomorphic-fetch": "*",
